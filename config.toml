@@ -1,6 +1,6 @@
 base_url = "https://me.lucienherve.xyz/"
 title = "Lucien HERVE"
-description = "Étudiant en Informatique, passionné par le développement logiciel et web."
+description = "I'm Lucien, a computer science student, passionate about software and web development."
 build_search_index = false
 generate_feed = true
 compile_sass = true
