@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Lucien HERVE</title>
+    <subtitle>I&#x27;m Lucien, a computer science student, passionate about software and web development.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://me.lucienherve.xyz/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://me.lucienherve.xyz/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-06-01T00:00:00+00:00</updated>
+    <id>https://me.lucienherve.xyz/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Loppu</title>
+        <published>2024-06-01T00:00:00+00:00</published>
+        <updated>2024-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://me.lucienherve.xyz/projects/loppu/"/>
+        <id>https://me.lucienherve.xyz/projects/loppu/</id>
+        
+        <content type="html" xml:base="https://me.lucienherve.xyz/projects/loppu/">&lt;h2 id=&quot;project-overview&quot;&gt;Project Overview&lt;&#x2F;h2&gt;
+&lt;p&gt;Loppu is a custom web application that brings the concept of game books into the digital age. Users can navigate through an interactive story where their choices influence the outcome.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;technologies-used&quot;&gt;Technologies Used&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;React-61DAFB?style=flat-square&amp;amp;logo=react&amp;amp;logoColor=black&quot; alt=&quot;React&quot; &#x2F;&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Node.js-339933?style=flat-square&amp;amp;logo=nodedotjs&amp;amp;logoColor=white&quot; alt=&quot;Node.js&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;PostgreSQL-336791?style=flat-square&amp;amp;logo=postgresql&amp;amp;logoColor=white&quot; alt=&quot;PostgreSQL&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Express.js-000000?style=flat-square&amp;amp;logo=express&amp;amp;logoColor=white&quot; alt=&quot;Express&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Interactive Storytelling&lt;&#x2F;strong&gt;: Users make choices that affect the storyline, creating a unique experience for each user.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;User Accounts&lt;&#x2F;strong&gt;: Allows users to create accounts and save their progress.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Admin Panel&lt;&#x2F;strong&gt;: For content creators to manage and update the storylines and options.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Design&lt;&#x2F;strong&gt;: Ensures the application is accessible on both desktop and mobile devices.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Naiizey&#x2F;Loppu&quot;&gt;GitHub Repository&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>plue</title>
+        <published>2024-01-10T00:00:00+00:00</published>
+        <updated>2024-01-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://me.lucienherve.xyz/projects/plue/"/>
+        <id>https://me.lucienherve.xyz/projects/plue/</id>
+        
+        <content type="html" xml:base="https://me.lucienherve.xyz/projects/plue/">&lt;h2 id=&quot;project-overview&quot;&gt;Project Overview&lt;&#x2F;h2&gt;
+&lt;p&gt;Plue is a small poetic website that integrates a simple 2D physics model and lighting calculations to create a visually appealing and interactive experience.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;technologies-used&quot;&gt;Technologies Used&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;HTML5-E34F26?style=flat-square&amp;amp;logo=html5&amp;amp;logoColor=white&quot; alt=&quot;HTML&quot; &#x2F;&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;CSS3-1572B6?style=flat-square&amp;amp;logo=css3&amp;amp;logoColor=white&quot; alt=&quot;CSS&quot; &#x2F;&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;JavaScript-F7DF1E?style=flat-square&amp;amp;logo=javascript&amp;amp;logoColor=black&quot; alt=&quot;JavaScript&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;P5.js-ED225D?style=flat-square&amp;amp;logo=p5dotjs&amp;amp;logoColor=white&quot; alt=&quot;P5.js&quot; &#x2F;&gt; &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2D Physics Model&lt;&#x2F;strong&gt;: Simulates basic physics to create an interactive environment.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Lighting Calculations&lt;&#x2F;strong&gt;: Adds dynamic lighting effects to enhance the visual experience.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Artistic Design&lt;&#x2F;strong&gt;: Focuses on creating a poetic and aesthetically pleasing user experience.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;az4aaz&#x2F;plue&quot;&gt;GitHub Repository&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Alizon</title>
+        <published>2023-04-07T00:00:00+00:00</published>
+        <updated>2023-04-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://me.lucienherve.xyz/projects/alizon/"/>
+        <id>https://me.lucienherve.xyz/projects/alizon/</id>
+        
+        <content type="html" xml:base="https://me.lucienherve.xyz/projects/alizon/">&lt;h2 id=&quot;project-overview&quot;&gt;Project Overview&lt;&#x2F;h2&gt;
+&lt;p&gt;Alizon is a custom e-shop platform specifically designed for Breizh producers. The platform aims to provide a unique marketplace that highlights local products and offers an intuitive shopping experience for users.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;technologies-used&quot;&gt;Technologies Used&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;PHP-777BB4?style=flat-square&amp;amp;logo=php&amp;amp;logoColor=white&quot; alt=&quot;PHP&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;CodeIgniter4-EE4623?style=flat-square&amp;amp;logo=codeigniter&amp;amp;logoColor=white&quot; alt=&quot;CodeIgniter&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;PostgreSQL-336791?style=flat-square&amp;amp;logo=postgresql&amp;amp;logoColor=white&quot; alt=&quot;PostgreSQL&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Apache-D22128?style=flat-square&amp;amp;logo=apache&amp;amp;logoColor=white&quot; alt=&quot;Apache&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Docker-2496ED?style=flat-square&amp;amp;logo=docker&amp;amp;logoColor=white&quot; alt=&quot;Docker&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;HTML5-E34F26?style=flat-square&amp;amp;logo=html5&amp;amp;logoColor=white&quot; alt=&quot;HTML&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;CSS3-1572B6?style=flat-square&amp;amp;logo=css3&amp;amp;logoColor=white&quot; alt=&quot;CSS&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;JavaScript-F7DF1E?style=flat-square&amp;amp;logo=javascript&amp;amp;logoColor=black&quot; alt=&quot;JavaScript&quot; &#x2F;&gt; &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Product Management&lt;&#x2F;strong&gt;: Producers can easily add, edit, and manage their product listings.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Secure Payments&lt;&#x2F;strong&gt;: Integrated with secure payment gateways to facilitate smooth transactions.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;User Reviews&lt;&#x2F;strong&gt;: Allows customers to leave reviews and ratings for products.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Design&lt;&#x2F;strong&gt;: Ensures the website is accessible and user-friendly on all devices.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Naiizey&#x2F;SAE3_LBBDS&quot;&gt;GitHub Repository&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Math Symbol Support Test</title>
+        <published>2023-01-06T00:00:00+00:00</published>
+        <updated>2023-01-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://me.lucienherve.xyz/posts/math-symbols-test/"/>
+        <id>https://me.lucienherve.xyz/posts/math-symbols-test/</id>
+        
+        <content type="html" xml:base="https://me.lucienherve.xyz/posts/math-symbols-test/">&lt;h1 id=&quot;inline-math&quot;&gt;Inline Math&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;$(a+b)^2$ = $a^2 + 2ab + b^2$&lt;&#x2F;li&gt;
+&lt;li&gt;A polynomial P of degree d over $\mathbb{F}_p$ is an expression of the form
+$P(s) = a_0 + a_1 . s + a_2 . s^2 + ... + a_d . s^d$ for some
+$a_0,..,a_d \in \mathbb{F}_p$&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;displayed-math&quot;&gt;Displayed Math&lt;&#x2F;h1&gt;
+&lt;p&gt;$$
+p := (\sum_{k∈I}{c_k.v_k} + \delta_v.t(x))·(\sum_{k∈I}{c_k.w_k} + \delta_w.t(x)) − (\sum_{k∈I}{c_k.y_k} + \delta_y.t(x))
+$$&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Table of Contents Test</title>
+        <published>2022-01-02T00:00:00+00:00</published>
+        <updated>2022-01-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://me.lucienherve.xyz/posts/table-of-contents/"/>
+        <id>https://me.lucienherve.xyz/posts/table-of-contents/</id>
+        
+        <content type="html" xml:base="https://me.lucienherve.xyz/posts/table-of-contents/">&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;&#x2F;h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;&#x2F;h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;&#x2F;h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;&#x2F;h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;heading-4-1&quot;&gt;Heading 4&lt;&#x2F;h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;heading-3-1&quot;&gt;Heading 3&lt;&#x2F;h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;heading-4-2&quot;&gt;Heading 4&lt;&#x2F;h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;heading-4-3&quot;&gt;Heading 4&lt;&#x2F;h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;heading-2-1&quot;&gt;Heading 2&lt;&#x2F;h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;heading-3-2&quot;&gt;Heading 3&lt;&#x2F;h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;heading-4-4&quot;&gt;Heading 4&lt;&#x2F;h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;heading-4-5&quot;&gt;Heading 4&lt;&#x2F;h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;heading-3-3&quot;&gt;Heading 3&lt;&#x2F;h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;heading-4-6&quot;&gt;Heading 4&lt;&#x2F;h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;heading-4-7&quot;&gt;Heading 4&lt;&#x2F;h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mollis augue, vel efficitur lacus. Pellentesque eu egestas mi. Etiam ultrices lectus sit amet aliquet ullamcorper. Praesent in erat quis est sagittis finibus. Etiam nec sapien in nulla interdum faucibus. Integer iaculis lorem quis arcu lobortis, non malesuada neque vehicula. Aenean nec tellus eu metus bibendum tempus. Sed rutrum urna ut commodo tempor. Vestibulum aliquet elit posuere turpis maximus condimentum. Sed urna libero, ornare eu tellus vitae, laoreet condimentum risus. Aenean elit lectus, mattis quis nibh nec, faucibus rutrum sapien. Sed iaculis consectetur mi, eget posuere turpis finibus et.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Markdown Test</title>
+        <published>2022-01-01T00:00:00+00:00</published>
+        <updated>2022-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://me.lucienherve.xyz/posts/markdown/"/>
+        <id>https://me.lucienherve.xyz/posts/markdown/</id>
+        
+        <content type="html" xml:base="https://me.lucienherve.xyz/posts/markdown/">&lt;h2 id=&quot;code-block&quot;&gt;Code Block&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;rust&quot; style=&quot;background-color:#0f1419;color:#bfbab0;&quot; class=&quot;language-rust &quot;&gt;&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span style=&quot;color:#ff7733;&quot;&gt;fn &lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb454;&quot;&gt;main&lt;&#x2F;span&gt;&lt;span&gt;() {
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#f07178;&quot;&gt;println!&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c2d94c;&quot;&gt;&amp;quot;Hello World&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;)&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bfbab0cc;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;quote&quot;&gt;Quote&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Two things are infinite: the universe and human stupidity; and I&#x27;m not sure about the universe.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Albert Einstein&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;code-tags&quot;&gt;Code tags&lt;&#x2F;h2&gt;
+&lt;p&gt;Lorem ipsum &lt;code&gt;dolor&lt;&#x2F;code&gt; sit amet, &lt;code&gt;consectetur adipiscing&lt;&#x2F;code&gt; elit. 
+&lt;code&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
