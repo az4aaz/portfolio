@@ -4,7 +4,7 @@ description = "Acquire, develop, and exploit the necessary skills to work effect
 weight = 6
 [extra]
 # You can also crop the image in the url by adjusting w=/h=
-remote_image = "https://images.unsplash.com/photo-1496115965489-21be7e6e59a0?q=80&w=1887&h=1887&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+remote_image = "https://images.unsplash.com/photo-1496115965489-21be7e6e59a0?q=80&w=1887&h=1087&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 +++
 Acquire, develop, and exploit the necessary skills to work effectively in an IT team. Collaboration is essential for the success of any IT project.
 - **Example: Intern Supervision and Weekly Presentations at EXAIL**
