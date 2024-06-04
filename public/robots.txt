@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://me.lucienherve.xyz/sitemap.xml
