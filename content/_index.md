@@ -10,3 +10,5 @@ I'm Lucien, a computer science student, passionate about software and web develo
 ## Portfolio Objective
 This portfolio aims to showcase the skills acquired during my training, as well as my academic and professional projects. You will find a highlight of the skills acquired during the BUT Computer Science and my specific technical skills.
 
+![clown](./important.gif)
+![quitte l'iut](./quitteliut.gif)
