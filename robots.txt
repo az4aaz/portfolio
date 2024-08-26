@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://az4aaz.github.io/portfolio/sitemap.xml
