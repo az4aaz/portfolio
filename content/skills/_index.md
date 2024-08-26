@@ -2,7 +2,6 @@
 sort_by = "weight"
 template = "cards.html"
 title = "Skills"
-path = "skills"
 +++
 
 # Technical Skills

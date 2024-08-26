@@ -26,7 +26,7 @@
         <content type="html" xml:base="https://me.lucienherve.xyz/projects/loppu/">&lt;h2 id=&quot;project-overview&quot;&gt;Project Overview&lt;&#x2F;h2&gt;
 &lt;p&gt;Loppu is a custom web application that brings the concept of game books into the digital age. Users can navigate through an interactive story where their choices influence the outcome.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;technologies-used&quot;&gt;Technologies Used&lt;&#x2F;h2&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;React-61DAFB?style=flat-square&amp;amp;logo=react&amp;amp;logoColor=black&quot; alt=&quot;React&quot; &#x2F;&gt; 
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;React-61DAFB?style=flat-square&amp;amp;logo=react&amp;amp;logoColor=black&quot; alt=&quot;React&quot; &#x2F;&gt;
 &lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Node.js-339933?style=flat-square&amp;amp;logo=nodedotjs&amp;amp;logoColor=white&quot; alt=&quot;Node.js&quot; &#x2F;&gt;
 &lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;PostgreSQL-336791?style=flat-square&amp;amp;logo=postgresql&amp;amp;logoColor=white&quot; alt=&quot;PostgreSQL&quot; &#x2F;&gt;
 &lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Express.js-000000?style=flat-square&amp;amp;logo=express&amp;amp;logoColor=white&quot; alt=&quot;Express&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -60,10 +60,10 @@
         <content type="html" xml:base="https://me.lucienherve.xyz/projects/plue/">&lt;h2 id=&quot;project-overview&quot;&gt;Project Overview&lt;&#x2F;h2&gt;
 &lt;p&gt;Plue is a small poetic website that integrates a simple 2D physics model and lighting calculations to create a visually appealing and interactive experience.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;technologies-used&quot;&gt;Technologies Used&lt;&#x2F;h2&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;HTML5-E34F26?style=flat-square&amp;amp;logo=html5&amp;amp;logoColor=white&quot; alt=&quot;HTML&quot; &#x2F;&gt; 
-&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;CSS3-1572B6?style=flat-square&amp;amp;logo=css3&amp;amp;logoColor=white&quot; alt=&quot;CSS&quot; &#x2F;&gt; 
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;HTML5-E34F26?style=flat-square&amp;amp;logo=html5&amp;amp;logoColor=white&quot; alt=&quot;HTML&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;CSS3-1572B6?style=flat-square&amp;amp;logo=css3&amp;amp;logoColor=white&quot; alt=&quot;CSS&quot; &#x2F;&gt;
 &lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;JavaScript-F7DF1E?style=flat-square&amp;amp;logo=javascript&amp;amp;logoColor=black&quot; alt=&quot;JavaScript&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;P5.js-ED225D?style=flat-square&amp;amp;logo=p5dotjs&amp;amp;logoColor=white&quot; alt=&quot;P5.js&quot; &#x2F;&gt; &lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;P5.js-ED225D?style=flat-square&amp;amp;logo=p5dotjs&amp;amp;logoColor=white&quot; alt=&quot;P5.js&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;features&quot;&gt;Features&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;2D Physics Model&lt;&#x2F;strong&gt;: Simulates basic physics to create an interactive environment.&lt;&#x2F;li&gt;
@@ -100,7 +100,7 @@
 &lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Docker-2496ED?style=flat-square&amp;amp;logo=docker&amp;amp;logoColor=white&quot; alt=&quot;Docker&quot; &#x2F;&gt;
 &lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;HTML5-E34F26?style=flat-square&amp;amp;logo=html5&amp;amp;logoColor=white&quot; alt=&quot;HTML&quot; &#x2F;&gt;
 &lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;CSS3-1572B6?style=flat-square&amp;amp;logo=css3&amp;amp;logoColor=white&quot; alt=&quot;CSS&quot; &#x2F;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;JavaScript-F7DF1E?style=flat-square&amp;amp;logo=javascript&amp;amp;logoColor=black&quot; alt=&quot;JavaScript&quot; &#x2F;&gt; &lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;JavaScript-F7DF1E?style=flat-square&amp;amp;logo=javascript&amp;amp;logoColor=black&quot; alt=&quot;JavaScript&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;features&quot;&gt;Features&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Product Management&lt;&#x2F;strong&gt;: Producers can easily add, edit, and manage their product listings.&lt;&#x2F;li&gt;
@@ -221,7 +221,7 @@ $$&lt;&#x2F;p&gt;
 &lt;li&gt;Albert Einstein&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;code-tags&quot;&gt;Code tags&lt;&#x2F;h2&gt;
-&lt;p&gt;Lorem ipsum &lt;code&gt;dolor&lt;&#x2F;code&gt; sit amet, &lt;code&gt;consectetur adipiscing&lt;&#x2F;code&gt; elit. 
+&lt;p&gt;Lorem ipsum &lt;code&gt;dolor&lt;&#x2F;code&gt; sit amet, &lt;code&gt;consectetur adipiscing&lt;&#x2F;code&gt; elit.
 &lt;code&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
 </content>
         

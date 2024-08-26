@@ -2,7 +2,7 @@ base_url = "https://me.lucienherve.xyz/"
 title = "Lucien HERVE"
 description = "I'm Lucien, a computer science student, passionate about software and web development."
 build_search_index = false
-generate_feed = true
+generate_feeds = true
 compile_sass = true
 minify_html = true
 taxonomies = [{ name = "tags" }]
